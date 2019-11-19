@@ -16,6 +16,6 @@ class ArticleTest extends \PHPUnit\Framework\TestCase
          */
         public function testGetName()
         {
-                $this->assertTrue(true, "Alles Good" );
+                $this->assertTrue(false, "Alles Good" );
         }
 }
